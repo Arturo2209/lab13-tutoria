@@ -1,6 +1,4 @@
-# README.md
-
-## Semana 13: “¿Estoy más cerca de mi propósito?” 🧭
+# Semana 13: “¿Estoy más cerca de mi propósito?” 🧭
 
 ## Parte 1: Diario de transformación
 
